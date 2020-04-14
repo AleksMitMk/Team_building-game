@@ -117,8 +117,7 @@ body {
   display: flex;
   justify-content: flex-end;
   position: absolute;
-  top: 35px;
-  left: 50px;
+  margin-left: 30px;
 }
 
 .toggle-nav {
