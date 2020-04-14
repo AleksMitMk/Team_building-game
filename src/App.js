@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ScrollToTop from './Components/ScrollToTop/ScrollToTop';
 import FirstSite from './Components/FirstSite/firstSite';
@@ -20,6 +20,7 @@ function App() {
       <ScrollToTop>
         <div className="App">
           <Navigon />
+          <Redirect to="/"/>
           <Switch>
             <Route exact path="/" component={FirstSite} />
             <Route path="/gameDetail/:gameid" component={CardDetails} />  
