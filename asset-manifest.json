@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Team_building-game/static/css/main.13d87222.chunk.css",
+    "main.css": "/Team_building-game/static/css/main.8d91770b.chunk.css",
     "main.js": "/Team_building-game/static/js/main.4c08fa1e.chunk.js",
     "main.js.map": "/Team_building-game/static/js/main.4c08fa1e.chunk.js.map",
     "runtime-main.js": "/Team_building-game/static/js/runtime-main.9f260c7c.js",
@@ -9,10 +9,10 @@
     "static/js/2.f4a964c3.chunk.js": "/Team_building-game/static/js/2.f4a964c3.chunk.js",
     "static/js/2.f4a964c3.chunk.js.map": "/Team_building-game/static/js/2.f4a964c3.chunk.js.map",
     "index.html": "/Team_building-game/index.html",
-    "precache-manifest.0480bbe80521629275d705c098f7e600.js": "/Team_building-game/precache-manifest.0480bbe80521629275d705c098f7e600.js",
+    "precache-manifest.ab7c8b515d94a712ca0b5d8da218c407.js": "/Team_building-game/precache-manifest.ab7c8b515d94a712ca0b5d8da218c407.js",
     "service-worker.js": "/Team_building-game/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Team_building-game/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.13d87222.chunk.css.map": "/Team_building-game/static/css/main.13d87222.chunk.css.map",
+    "static/css/main.8d91770b.chunk.css.map": "/Team_building-game/static/css/main.8d91770b.chunk.css.map",
     "static/js/2.f4a964c3.chunk.js.LICENSE.txt": "/Team_building-game/static/js/2.f4a964c3.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/Team_building-game/static/media/0.0a4b034f.jpg",
     "static/media/1.jpg": "/Team_building-game/static/media/1.b0444bbd.jpg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.9f260c7c.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.f4a964c3.chunk.js",
-    "static/css/main.13d87222.chunk.css",
+    "static/css/main.8d91770b.chunk.css",
     "static/js/main.4c08fa1e.chunk.js"
   ]
 }

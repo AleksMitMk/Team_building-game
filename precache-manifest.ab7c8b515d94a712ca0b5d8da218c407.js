@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c14066ec80d75d574c850e768cf127f",
+    "revision": "1418dfe791d3aae5bd40caed9091984d",
     "url": "/Team_building-game/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Team_building-game/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d17c1360332e73e5e15b",
-    "url": "/Team_building-game/static/css/main.13d87222.chunk.css"
+    "revision": "fe7c53f8e67ae9266ba1",
+    "url": "/Team_building-game/static/css/main.8d91770b.chunk.css"
   },
   {
     "revision": "09dcdb75398d517339ac",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Team_building-game/static/js/2.f4a964c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d17c1360332e73e5e15b",
+    "revision": "fe7c53f8e67ae9266ba1",
     "url": "/Team_building-game/static/js/main.4c08fa1e.chunk.js"
   },
   {
