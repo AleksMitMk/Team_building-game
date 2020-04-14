@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3b8f93bba601c6c40002296ad0cf518",
+    "revision": "595ca6b4337d1f6d42e5e5cf88431ebd",
     "url": "/Team_building-game/index.html"
   },
   {
-    "revision": "38d798b89d03541179a0",
+    "revision": "0191edb9667bea8aa95d",
     "url": "/Team_building-game/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "24fb3b25b1fb2217047e",
+    "revision": "87ab5d7f8f22d3b960b2",
     "url": "/Team_building-game/static/css/main.13d87222.chunk.css"
   },
   {
-    "revision": "38d798b89d03541179a0",
-    "url": "/Team_building-game/static/js/2.5903e578.chunk.js"
+    "revision": "0191edb9667bea8aa95d",
+    "url": "/Team_building-game/static/js/2.e7ea4724.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/Team_building-game/static/js/2.5903e578.chunk.js.LICENSE.txt"
+    "url": "/Team_building-game/static/js/2.e7ea4724.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24fb3b25b1fb2217047e",
-    "url": "/Team_building-game/static/js/main.bd394b64.chunk.js"
+    "revision": "87ab5d7f8f22d3b960b2",
+    "url": "/Team_building-game/static/js/main.b01cdeb6.chunk.js"
   },
   {
-    "revision": "c7b6c8d253ee719725f0",
-    "url": "/Team_building-game/static/js/runtime-main.5782bb82.js"
+    "revision": "ee2bb40199699ed44ff5",
+    "url": "/Team_building-game/static/js/runtime-main.9f260c7c.js"
   },
   {
     "revision": "0a4b034f1d9474d72e8bf79b6c685705",
