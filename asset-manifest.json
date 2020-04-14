@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Team_building-game/static/css/main.13d87222.chunk.css",
-    "main.js": "/Team_building-game/static/js/main.b01cdeb6.chunk.js",
-    "main.js.map": "/Team_building-game/static/js/main.b01cdeb6.chunk.js.map",
+    "main.js": "/Team_building-game/static/js/main.4c08fa1e.chunk.js",
+    "main.js.map": "/Team_building-game/static/js/main.4c08fa1e.chunk.js.map",
     "runtime-main.js": "/Team_building-game/static/js/runtime-main.9f260c7c.js",
     "runtime-main.js.map": "/Team_building-game/static/js/runtime-main.9f260c7c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Team_building-game/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e7ea4724.chunk.js": "/Team_building-game/static/js/2.e7ea4724.chunk.js",
-    "static/js/2.e7ea4724.chunk.js.map": "/Team_building-game/static/js/2.e7ea4724.chunk.js.map",
+    "static/js/2.f4a964c3.chunk.js": "/Team_building-game/static/js/2.f4a964c3.chunk.js",
+    "static/js/2.f4a964c3.chunk.js.map": "/Team_building-game/static/js/2.f4a964c3.chunk.js.map",
     "index.html": "/Team_building-game/index.html",
-    "precache-manifest.3fe04628f2a20c42d2e7bdd1f728260c.js": "/Team_building-game/precache-manifest.3fe04628f2a20c42d2e7bdd1f728260c.js",
+    "precache-manifest.0480bbe80521629275d705c098f7e600.js": "/Team_building-game/precache-manifest.0480bbe80521629275d705c098f7e600.js",
     "service-worker.js": "/Team_building-game/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Team_building-game/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.13d87222.chunk.css.map": "/Team_building-game/static/css/main.13d87222.chunk.css.map",
-    "static/js/2.e7ea4724.chunk.js.LICENSE.txt": "/Team_building-game/static/js/2.e7ea4724.chunk.js.LICENSE.txt",
+    "static/js/2.f4a964c3.chunk.js.LICENSE.txt": "/Team_building-game/static/js/2.f4a964c3.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/Team_building-game/static/media/0.0a4b034f.jpg",
     "static/media/1.jpg": "/Team_building-game/static/media/1.b0444bbd.jpg",
     "static/media/10.jpg": "/Team_building-game/static/media/10.8b1bb81c.jpg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.9f260c7c.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e7ea4724.chunk.js",
+    "static/js/2.f4a964c3.chunk.js",
     "static/css/main.13d87222.chunk.css",
-    "static/js/main.b01cdeb6.chunk.js"
+    "static/js/main.4c08fa1e.chunk.js"
   ]
 }
